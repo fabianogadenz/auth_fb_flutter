@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:1:1-49:12
+MERGED from [:flutter_facebook_login] /Users/fabianogadenz/AndroidStudioProjects/auth_fb/build/flutter_facebook_login/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.android:facebook-login:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-login-4.29.0.aar/db48e497a6dfc5bc15a632ba275c4867/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/a356b12a24220a46ca029f59c5a293ed/AndroidManifest.xml:21:1-36:12
+MERGED from [com.facebook.android:facebook-core:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/0829c3f7e814e27b268af605db478e38/AndroidManifest.xml:21:1-45:12
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/72bc3a4c9fb436a936908acc9fada9cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/0266d3186cd1eeab5bf44c04d6b299ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/a3e8312b7eabdaaf3419a385733b49bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/41456487dbd5c9915e087e57ae2c860c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.1.aar/cd3eb9660da4fdd72c62213c349fe985/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.1.aar/f9de007f26d831d24dc8844a68ee1eb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/3c9a2180cf66c3ef0271a323a5dc84ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/1e6599461157ec2f65e881a2357232ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/a6c7535a9006cacafa22964499bc4711/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/ee2404513167ab66277a06835b412d11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/c6c8eb1aba54c6e362cda34c093f3347/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a90158ef9ee8ab8a70245643caa0856b/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:1:1-49:12
+	package
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:1:1-49:12
+		INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:1:1-49:12
+		INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:15:5-48:19
+MERGED from [com.facebook.android:facebook-login:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-login-4.29.0.aar/db48e497a6dfc5bc15a632ba275c4867/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-login-4.29.0.aar/db48e497a6dfc5bc15a632ba275c4867/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/a356b12a24220a46ca029f59c5a293ed/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/a356b12a24220a46ca029f59c5a293ed/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-core:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/0829c3f7e814e27b268af605db478e38/AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/0829c3f7e814e27b268af605db478e38/AndroidManifest.xml:28:5-43:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a90158ef9ee8ab8a70245643caa0856b/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a90158ef9ee8ab8a70245643caa0856b/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-login:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-login-4.29.0.aar/db48e497a6dfc5bc15a632ba275c4867/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:17:9-32
+	android:icon
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#br.com.gadenz.authfb.MainActivity
+ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:35:27-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:38:9-107
+	android:value
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:38:66-105
+	android:name
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:38:20-65
+activity#com.facebook.FacebookActivity
+ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:39:9-184
+MERGED from [com.facebook.android:facebook-common:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/a356b12a24220a46ca029f59c5a293ed/AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/a356b12a24220a46ca029f59c5a293ed/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:39:149-181
+	android:configChanges
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:39:64-148
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/a356b12a24220a46ca029f59c5a293ed/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:39:19-63
+activity#com.facebook.CustomTabActivity
+ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:40:9-47:20
+	android:exported
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:40:65-88
+	android:name
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:40:19-64
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
+ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:41:13-46:29
+action#android.intent.action.VIEW
+ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:43:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:44:17-78
+	android:name
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:44:27-75
+data
+ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:45:17-75
+	android:scheme
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml:45:23-72
+uses-sdk
+INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_facebook_login] /Users/fabianogadenz/AndroidStudioProjects/auth_fb/build/flutter_facebook_login/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_facebook_login] /Users/fabianogadenz/AndroidStudioProjects/auth_fb/build/flutter_facebook_login/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.android:facebook-login:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-login-4.29.0.aar/db48e497a6dfc5bc15a632ba275c4867/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-login-4.29.0.aar/db48e497a6dfc5bc15a632ba275c4867/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/a356b12a24220a46ca029f59c5a293ed/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/a356b12a24220a46ca029f59c5a293ed/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/0829c3f7e814e27b268af605db478e38/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/0829c3f7e814e27b268af605db478e38/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/72bc3a4c9fb436a936908acc9fada9cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/72bc3a4c9fb436a936908acc9fada9cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/0266d3186cd1eeab5bf44c04d6b299ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/0266d3186cd1eeab5bf44c04d6b299ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/a3e8312b7eabdaaf3419a385733b49bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/a3e8312b7eabdaaf3419a385733b49bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/41456487dbd5c9915e087e57ae2c860c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/41456487dbd5c9915e087e57ae2c860c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.1.aar/cd3eb9660da4fdd72c62213c349fe985/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.1.aar/cd3eb9660da4fdd72c62213c349fe985/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.1.aar/f9de007f26d831d24dc8844a68ee1eb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.1.aar/f9de007f26d831d24dc8844a68ee1eb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/3c9a2180cf66c3ef0271a323a5dc84ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/3c9a2180cf66c3ef0271a323a5dc84ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/1e6599461157ec2f65e881a2357232ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/1e6599461157ec2f65e881a2357232ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/a6c7535a9006cacafa22964499bc4711/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/a6c7535a9006cacafa22964499bc4711/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/ee2404513167ab66277a06835b412d11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/ee2404513167ab66277a06835b412d11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/c6c8eb1aba54c6e362cda34c093f3347/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/c6c8eb1aba54c6e362cda34c093f3347/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a90158ef9ee8ab8a70245643caa0856b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a90158ef9ee8ab8a70245643caa0856b/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fabianogadenz/AndroidStudioProjects/auth_fb/android/app/src/main/AndroidManifest.xml
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/a356b12a24220a46ca029f59c5a293ed/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/a356b12a24220a46ca029f59c5a293ed/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/0829c3f7e814e27b268af605db478e38/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/0829c3f7e814e27b268af605db478e38/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/0829c3f7e814e27b268af605db478e38/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.29.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/0829c3f7e814e27b268af605db478e38/AndroidManifest.xml:40:13-70
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a90158ef9ee8ab8a70245643caa0856b/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a90158ef9ee8ab8a70245643caa0856b/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/fabianogadenz/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a90158ef9ee8ab8a70245643caa0856b/AndroidManifest.xml:26:13-58
